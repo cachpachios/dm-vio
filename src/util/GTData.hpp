@@ -25,7 +25,7 @@
 
 #include <stdio.h>
 
-#include <Eigen/Eigenvalues>
+#include <eigen3/Eigen/Eigenvalues>
 
 #include <sophus/sophus.hpp>
 #include <sophus/se3.hpp>

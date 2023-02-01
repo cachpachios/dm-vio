@@ -28,7 +28,7 @@
 #include <fstream>
 #include <iostream>
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <iterator>
 #include "util/settings.h"
 #include "util/globalFuncs.h"

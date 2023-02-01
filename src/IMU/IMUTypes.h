@@ -23,7 +23,7 @@
 #ifndef DMVIO_IMUTYPES_H
 #define DMVIO_IMUTYPES_H
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <vector>
 
 namespace dmvio

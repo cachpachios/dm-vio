@@ -23,7 +23,7 @@
 #ifndef DMVIO_IMUSETTINGS_H
 #define DMVIO_IMUSETTINGS_H
 
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 #include <sophus/se3.hpp>
 #include <util/SettingsUtil.h>
 #include <gtsam/inference/Ordering.h>

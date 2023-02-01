@@ -25,7 +25,7 @@
 
 #include <stdio.h>
 #include <vector>
-#include <Eigen/Eigenvalues>
+#include <eigen3/Eigen/Eigenvalues>
 
 #include "IMUTypes.h"
 #include "IMUSettings.h"

@@ -23,10 +23,10 @@
 #ifndef DMVIO_FRAMECONTAINER_H
 #define DMVIO_FRAMECONTAINER_H
 
-#include <Eigen/Dense>
+#include <eigen3/Eigen/Dense>
 #include "util/ImageAndExposure.h"
 #include "IMU/IMUTypes.h"
-#include <Eigen/StdVector>
+#include <eigen3/Eigen/StdVector>
 #include <mutex>
 #include <condition_variable>
 #include <deque>
